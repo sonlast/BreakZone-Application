@@ -13,3 +13,7 @@ Alawi, Hammad
 Taup, Julhajri
 DeGuzman, Jhondel
 Durano, Gie D.
+
+5,296 LINE OF CODES 
+
+Developer: ILALTO, IJERSON L. 
